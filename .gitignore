@@ -1,0 +1,7 @@
+data/ptb-xl/*
+utils/__pycache__
+
+tensorboard_runs/*
+models/*
+
+.DS_Store
