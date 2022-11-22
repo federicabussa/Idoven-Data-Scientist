@@ -2,6 +2,6 @@ data/ptb-xl/*
 utils/__pycache__
 
 tensorboard_runs/*
-models/*
+models/old
 
 .DS_Store
